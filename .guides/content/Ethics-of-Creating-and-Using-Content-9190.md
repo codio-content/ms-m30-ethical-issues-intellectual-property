@@ -1,0 +1,5 @@
+![](.guides/img/intellectual-property.jpg)
+
+When a person builds or creates an object in the physical world, that object belongs to them and they have ownership rights. If the item is stolen, there is a punishment for the thief. In the virtual world, when someone uses their creativity to invent an idea or create a digital item, that creation is called **intellectual property**. 
+
+Stealing a person's intellectual property may be easier than stealing physical property such as a car or cash, but it is still ethically wrong. Some people feel that it is less wrong to steal intellectual property because they are taking a "copy" of the digital item and not causing a loss of the original, but it is still taking property that is not rightfully theirs. *Stealing intellectual property is still stealing.*

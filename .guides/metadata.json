@@ -1,0 +1,84 @@
+{
+ "sections": [
+  {
+   "id": "9190f67b-b379-3fa4-824a-2b4fdc67ba4c",
+   "title": "Ethics of Creating and Using Content",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Ethics-of-Creating-and-Using-Content-9190.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6bd690f6-b889-384f-6229-73a941d7a396",
+   "title": "What is Piracy?",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-is-Piracy--6bd6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7cafe1ec-8ded-b830-0486-69e00caba4fb",
+   "title": "Copyright & Plagarism",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Copyright---Plagarism-7caf.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c80e4139-86c2-e548-2ad1-27c54567d8dc",
+   "title": "What can I use?",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-can-I-use--c80e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d2d0c15a-ec14-3ba9-1d6b-c83784ca2b5e",
+   "title": "Check-up Question 1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Check-up-Question-1-d2d0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f0fc5658-653c-ddc3-d9aa-e2d8c8a1e2b8",
+   "title": "Check-up Question 2",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Check-up-Question-2-f0fc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "90a5c218-840a-2452-1384-49d8be43ec1f",
+   "title": "Check-Up Question 3",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Check-Up-Question-3-90a5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

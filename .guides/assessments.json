@@ -1,0 +1,104 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1302382537",
+  "source": {
+   "name": "Check-up 1",
+   "showName": false,
+   "instructions": "The practice of copying another persons work and passing it off as your own is called what?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "c5ad3985-7377-7484-3570-9c7a238009cd",
+     "correct": false,
+     "answer": "Piracy"
+    },
+    {
+     "_id": "8b467bf9-8bc7-c495-adb8-b3e43cbbf1d6",
+     "correct": false,
+     "answer": "Copyright"
+    },
+    {
+     "_id": "1b9e9c64-cbc7-ac9c-a0cb-7dc39bcedb3a",
+     "correct": false,
+     "answer": "Intellectual Property"
+    },
+    {
+     "_id": "dcf26b66-2e7c-38f3-56e2-2466eb61668a",
+     "correct": true,
+     "answer": "Plagiarism"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1053025874",
+  "source": {
+   "name": "Check-up 2",
+   "showName": false,
+   "instructions": "A work or invention that is the result of creativity is called:",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "bfa9b2cd-bd13-7151-22e2-99aedc2a8ade",
+     "correct": false,
+     "answer": "Piracy"
+    },
+    {
+     "_id": "c7696b8b-d660-f120-447d-224ae8342cd7",
+     "correct": false,
+     "answer": "Copyright"
+    },
+    {
+     "_id": "6c8e4d5f-114c-2095-80c5-0c4e43fb2595",
+     "correct": true,
+     "answer": "Intellectual Property"
+    },
+    {
+     "_id": "3ac71d58-7468-26ed-0ba6-acdb466b872c",
+     "correct": false,
+     "answer": "Plagiarism"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3325165081",
+  "source": {
+   "name": "Check-up 3",
+   "showName": false,
+   "instructions": "When can a portion of an item *not* be used under the Fair Use doctrine?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "797218f8-af6e-0d9f-5299-59d74e9742dc",
+     "correct": false,
+     "answer": "For teaching/educational purposes."
+    },
+    {
+     "_id": "9e5f20f4-cb35-2e93-00bf-c50558304f4b",
+     "correct": false,
+     "answer": "For critiquing."
+    },
+    {
+     "_id": "e02e75ab-31b0-4501-de2a-12c2f8e06cfc",
+     "correct": true,
+     "answer": "For creating a new product to sell."
+    },
+    {
+     "_id": "c6bf2796-7ed7-a6d3-3af4-5a4056a95b42",
+     "correct": false,
+     "answer": "For news reporting."
+    }
+   ]
+  }
+ }
+]
